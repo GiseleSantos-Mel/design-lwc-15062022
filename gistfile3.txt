@@ -1,0 +1,7 @@
+<template>
+    <lightning-card>
+        <p>
+            {texto1}
+        </p>
+    </lightning-card>
+</template>
