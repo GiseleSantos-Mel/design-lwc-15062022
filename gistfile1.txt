@@ -9,7 +9,7 @@
     </targets>
     <targetConfigs>
         <targetConfig targets="lightning__AppPage, lightning__HomePage, lightning__RecordPage">
-            <property name="empName" type="String" default="Cleiton" label="Enter Employee Name"/>
+            <property name="texto1" type="String" default="Cleiton" label="Mude o texto1"/>
         </targetConfig>
     </targetConfigs>
 </LightningComponentBundle>
